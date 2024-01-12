@@ -45,3 +45,5 @@ Companies often struggle with providing personalized learning experiences for em
 
 🌟 Novelty of the Solution:
 The proposed solution's uniqueness lies in suggesting personalized learning paths for employees within an enterprise. Leveraging GPT-4's advanced language understanding capabilities allows for processing natural language queries and providing context-aware responses. 
+
+<img width="470" alt="chatbot" src="https://github.com/Ahrane-m/Personalized-Learning-and-Development-Hub-for-Employee-Training/assets/39878665/220a63c0-376d-4478-a183-5d6c767576c5">
